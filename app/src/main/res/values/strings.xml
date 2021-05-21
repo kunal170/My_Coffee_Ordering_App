@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_placeholder" translatable="false">Tell us you good name!!</string>
+    <string name="email_placeholder" translatable="false">Mention your Email Address Please :)</string>
+    <string name="toppings" translatable="false">TOPPINGS</string>
+    <string name="whippedCream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="quantity" translatable="false">QUANTITY</string>
+    <string name="order" translatable="false">Order</string>
+</resources>
